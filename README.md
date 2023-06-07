@@ -1,5 +1,5 @@
 # github-actions
-Examples for using GitHub actions
+Examples for using GitHub actions.
 
 ## Getting Started
 
